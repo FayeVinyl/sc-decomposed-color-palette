@@ -1,3 +1,6 @@
+
+![sc-palette](https://github.com/FayeVinyl/sc-decomposed-color-palette/assets/19337086/ae289cf7-42ef-4eaf-bf83-6db618c61832)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
